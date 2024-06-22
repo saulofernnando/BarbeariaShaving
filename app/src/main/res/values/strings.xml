@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BarbeariaShaving</string>
+
+    <string-array name="screensOptions">
+        <item>Tela 1</item>
+        <item>Tela 2</item>
+    </string-array>
+</resources>
